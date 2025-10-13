@@ -13,7 +13,7 @@ This is my first project pushed to GitHub!
 13 October 2025 - Day 1 of my coding journey
 
 ## Author
-Debojeet Nandi  
+Debojeet Goswami
 3rd Year CSE @ KIIT University
 
 ---
